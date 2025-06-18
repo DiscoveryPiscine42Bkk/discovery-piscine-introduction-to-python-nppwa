@@ -13,4 +13,3 @@ persons = {
 }
     
 print(array_of_name(persons))
-
