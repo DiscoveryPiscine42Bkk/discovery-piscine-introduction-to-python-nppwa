@@ -1,2 +1,1 @@
-message = "RTFM (Read the F-ing manual)"
-print(message.upper())
+print("RTFM(Read the F-ing manual)")
