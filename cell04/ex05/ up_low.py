@@ -1,5 +1,5 @@
-str_input = input()
+user_input = input("Please enter a string: ")
 
-
-print(str_input.swapcase())
+swapped_string = user_input.swapcase
+print(f"the string with swapped case is: {swapped_string}")
 
