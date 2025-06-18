@@ -8,4 +8,4 @@ if len(sys.argv) == 3:
     occurrences = re.findall(re.escape(keyword),string_to_search)
     print(len(occurrences))
 else:
-    print
+    print("none")
